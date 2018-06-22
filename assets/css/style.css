@@ -1,0 +1,54 @@
+body {
+    background: cadetblue
+}
+
+h1 {
+    font-family: bold;
+    font-size: 50px;
+}
+
+img {
+    width: 100%;
+    height: 400px;
+}
+
+li {
+	display: inline-block;
+	list-style: none;
+	padding: 20px;
+    font-size: 18px;
+}
+
+#start, #submit {
+	background: #f8b425;
+	border: none;
+	border-radius: 10px;
+	padding: 15px;
+	width: 200px;
+	margin-top: 20px;
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.one, .two{
+	text-align: center;
+    margin-top: 40px;
+}
+
+input[type=radio] {	
+	margin-right:10px;
+}
+
+#display {
+	font-size: 34px;
+}
+
+footer {
+    height: 40px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: black;
+    color: #f8b425;
+}
